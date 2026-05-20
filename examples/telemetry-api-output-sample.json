@@ -1,0 +1,29 @@
+{
+  "environment": "lab",
+  "generated_at": "2026-05-20T10:00:00Z",
+  "devices": [
+    {
+      "hostname": "core-arista-01",
+      "cpu_usage_percent": 18,
+      "memory_usage_percent": 42,
+      "interfaces_up": 31,
+      "interfaces_down": 1,
+      "status": "healthy"
+    },
+    {
+      "hostname": "nexus-agg-01",
+      "cpu_usage_percent": 22,
+      "memory_usage_percent": 51,
+      "interfaces_up": 47,
+      "interfaces_down": 2,
+      "status": "warning"
+    },
+    {
+      "hostname": "a10-cgnat-01",
+      "cpu_usage_percent": 35,
+      "memory_usage_percent": 58,
+      "active_sessions": 124500,
+      "status": "healthy"
+    }
+  ]
+}
