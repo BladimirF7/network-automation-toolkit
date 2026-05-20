@@ -1,0 +1,29 @@
+[
+  {
+    "hostname": "core-arista-01",
+    "vendor": "Arista",
+    "model": "DCS-7050QX",
+    "role": "Core Switch",
+    "management_ip": "192.0.2.10",
+    "site": "DC1",
+    "status": "active"
+  },
+  {
+    "hostname": "nexus-agg-01",
+    "vendor": "Cisco",
+    "model": "Nexus 9000",
+    "role": "Aggregation Switch",
+    "management_ip": "192.0.2.20",
+    "site": "DC1",
+    "status": "active"
+  },
+  {
+    "hostname": "a10-cgnat-01",
+    "vendor": "A10 Networks",
+    "model": "Thunder",
+    "role": "Traffic Management / CGNAT",
+    "management_ip": "192.0.2.30",
+    "site": "DC1",
+    "status": "active"
+  }
+]
