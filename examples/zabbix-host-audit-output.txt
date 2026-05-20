@@ -1,0 +1,27 @@
+================================================================================
+ZABBIX HOST AUDIT
+================================================================================
+
+Host ID : 10101
+Host    : core-arista-01
+Name    : Arista Core Switch 01
+Status  : Enabled
+Groups  : Network Devices, Core Infrastructure
+IP/DNS   : 192.0.2.10
+--------------------------------------------------------------------------------
+
+Host ID : 10102
+Host    : nexus-agg-01
+Name    : Cisco Nexus Aggregation 01
+Status  : Enabled
+Groups  : Network Devices, Aggregation Layer
+IP/DNS   : 192.0.2.20
+--------------------------------------------------------------------------------
+
+Host ID : 10103
+Host    : a10-cgnat-01
+Name    : A10 Thunder CGNAT 01
+Status  : Enabled
+Groups  : Network Devices, Traffic Management
+IP/DNS   : 192.0.2.30
+--------------------------------------------------------------------------------
