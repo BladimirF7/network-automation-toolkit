@@ -1,4 +1,19 @@
-![Network Automation Toolkit Banner](diagrams/network-automation-banner.png)
+<p align="center">
+  <img src="diagrams/network-automation-banner.png" alt="Network Automation Toolkit Banner">
+</p>
+
+<h1 align="center">Network Automation Toolkit</h1>
+
+<p align="center">
+  Infrastructure automation • Telemetry • Network Operations • Observability • Automation Engineering
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-Infrastructure-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Automation-Bash_Scripting-2E8BFF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Network-Engineering-00599C?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Telemetry-Observability-8A2BE2?style=for-the-badge">
+</p>
 
 # Network Automation Toolkit
 
