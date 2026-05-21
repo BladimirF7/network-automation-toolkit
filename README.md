@@ -1,3 +1,5 @@
+![Network Automation Toolkit Banner](diagrams/network-automation-banner.png)
+
 # Network Automation Toolkit
 
 Infrastructure automation scripts, network operational tooling, telemetry integrations, orchestration workflows, and infrastructure visibility utilities.
